@@ -1,0 +1,20 @@
+2023-04-03 02:04:57.168588 - Initialized conversion of CBT702
+2023-04-03 02:04:57.490325 - Received CBT.V504.FILE702.PDS from FILE702.XMI 
+2023-04-03 02:04:57.493053 - Found $$$$PKG.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/$$$$PKG
+2023-04-03 02:04:57.494194 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:04:57.495255 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/$$$DOC
+2023-04-03 02:04:57.496336 - Found $$NOTE0.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/$$NOTE0
+2023-04-03 02:04:57.497318 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:04:57.498295 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/$$NOTE2
+2023-04-03 02:04:57.499517 - Found $PDSLO14.jcl (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/$PDSLO14
+2023-04-03 02:04:57.500494 - Found $PDSLO16.jcl (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/$PDSLO16
+2023-04-03 02:04:57.501455 - Found @FILE702.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/@FILE702
+2023-04-03 02:04:57.502370 - Found DOCINS.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/DOCINS
+2023-04-03 02:04:57.503679 - Found DOCOLD.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/DOCOLD
+2023-04-03 02:04:57.504690 - Found DOCOVW.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/DOCOVW
+2023-04-03 02:04:57.505634 - Found DOCUSR.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/DOCUSR
+2023-04-03 02:04:57.506585 - Found JES2PARM.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/JES2PARM
+2023-04-03 02:04:57.507970 - Found MELLON14.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/MELLON14
+2023-04-03 02:04:57.509425 - Found MELLON16.txt (text/plain) in CBT.V504.FILE702.PDS, moved to PDS/MELLON16
+2023-04-03 02:04:57.515237 - Found PDSLOAD.xmi (application/xmit) in CBT.V504.FILE702.PDS
+2023-04-03 02:04:57.522215   - Received RECFM=U data, stored XMIT file as CBT702/PDSLOAD.xmi
