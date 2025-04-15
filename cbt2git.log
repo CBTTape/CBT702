@@ -1,20 +1,20 @@
-2025-04-15 04:52:17.580912 - Received CBT.V508.FILE702.PDS from FILE702.XMI 
-2025-04-15 04:52:17.582863 - Found $$$$PKG.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$$$PKG
-2025-04-15 04:52:17.583262 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:52:17.583530 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$$DOC
-2025-04-15 04:52:17.583741 - Found $$NOTE0.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$NOTE0
-2025-04-15 04:52:17.583996 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$NOTE1
-2025-04-15 04:52:17.584260 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$NOTE2
-2025-04-15 04:52:17.584479 - Found $PDSLO14.jcl (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$PDSLO14
-2025-04-15 04:52:17.584705 - Found $PDSLO16.jcl (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$PDSLO16
-2025-04-15 04:52:17.584991 - Found @FILE702.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/@FILE702
-2025-04-15 04:52:17.585273 - Found DOCINS.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/DOCINS
-2025-04-15 04:52:17.585876 - Found DOCOLD.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/DOCOLD
-2025-04-15 04:52:17.586199 - Found DOCOVW.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/DOCOVW
-2025-04-15 04:52:17.586427 - Found DOCUSR.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/DOCUSR
-2025-04-15 04:52:17.586634 - Found JES2PARM.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/JES2PARM
-2025-04-15 04:52:17.588539 - Found MELLON14.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/MELLON14
-2025-04-15 04:52:17.590648 - Found MELLON16.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/MELLON16
-2025-04-15 04:52:17.591026 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE702.PDS, moved to PDS/PDSLOAD.xmi
-2025-04-15 04:52:17.596723 - Received SBGOLOB.CBT470.FILE035 from PDSLOAD.xmi 
-2025-04-15 04:52:17.597232 - Found PDSLOAD.bin (application/octet-stream) in SBGOLOB.CBT470.FILE035, moved to PDSLOAD/PDSLOAD
+2025-04-15 23:32:29.863406 - Received CBT.V508.FILE702.PDS from FILE702.XMI 
+2025-04-15 23:32:29.865052 - Found $$$$PKG.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$$$PKG
+2025-04-15 23:32:29.865413 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:32:29.865640 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$$DOC
+2025-04-15 23:32:29.865816 - Found $$NOTE0.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$NOTE0
+2025-04-15 23:32:29.866030 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$NOTE1
+2025-04-15 23:32:29.866256 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$$NOTE2
+2025-04-15 23:32:29.866500 - Found $PDSLO14.jcl (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$PDSLO14
+2025-04-15 23:32:29.866679 - Found $PDSLO16.jcl (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/$PDSLO16
+2025-04-15 23:32:29.866733 - Found @FILE702.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/@FILE702
+2025-04-15 23:32:29.866962 - Found DOCINS.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/DOCINS
+2025-04-15 23:32:29.867568 - Found DOCOLD.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/DOCOLD
+2025-04-15 23:32:29.867901 - Found DOCOVW.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/DOCOVW
+2025-04-15 23:32:29.868154 - Found DOCUSR.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/DOCUSR
+2025-04-15 23:32:29.868369 - Found JES2PARM.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/JES2PARM
+2025-04-15 23:32:29.870316 - Found MELLON14.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/MELLON14
+2025-04-15 23:32:29.872396 - Found MELLON16.txt (text/plain) in CBT.V508.FILE702.PDS, moved to PDS/MELLON16
+2025-04-15 23:32:29.872754 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE702.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-15 23:32:29.878203 - Received SBGOLOB.CBT470.FILE035 from PDSLOAD.xmi 
+2025-04-15 23:32:29.878715 - Found PDSLOAD.bin (application/octet-stream) in SBGOLOB.CBT470.FILE035, moved to PDSLOAD/PDSLOAD
